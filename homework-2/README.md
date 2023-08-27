@@ -2,12 +2,12 @@
 
 ### Создание и наполнение БД
 
-- Создайте новую БД `northwind`
-- Откройте в pgAdmin _querytool_ и выполните там код из файл `northwind_script.sql`
++ Создайте новую БД `northwind`
++ Откройте в pgAdmin _querytool_ и выполните там код из файл `northwind_script.sql`
 
 ### Написание sql-запросов
 
-- Напишите sql-запросы на простые выборки в файле `simple_queries.sql`
++ Напишите sql-запросы на простые выборки в файле `simple_queries.sql`
 - Напишите sql-запросы на фильтрацию и сортировки в `filter_sorting.sql`
 - Напишите sql-запросы на фильтрацию по шаблону и группировки в `groupby.sql`
 
